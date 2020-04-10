@@ -1,6 +1,6 @@
 import React from "react";
 import {RootState} from "../../redux";
-import {userClickedOnTheDetailsButton, getBookList} from "../redux/actions";
+import {getBookList} from "../redux/actions";
 import {useDispatch, useSelector} from "react-redux";
 import { ListType } from "../types";
 import {Table} from "antd";
