@@ -3,7 +3,7 @@ import {ListType} from "../library/types";
 
 axios.defaults.baseURL = 'http://localhost:5000';
 
-export const getBookList = () => axios.get('/list');
+export const getBookList = () => axios.get('/');
 
 export const getBookInfoById = (id: number) => axios.get(`/book/${id}`);
 
