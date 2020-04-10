@@ -1,15 +1,27 @@
 {
 	"books": [
 		{
+			"id": 1,
+			"name": "Эмоциональная гибкость Глава 1",
+			"yearOfPublishing": "2017",
+			"numberOfPages": 200,
+			"description": "В этой книге вы найдете описание приемов и средств, которые позволят вам найти подход к своим самым трудным переживаниям, понять, какие пораженческие мысли и линии поведения вас ограничивают, научиться подстраиваться под сложный и быстро меняющийся мир и не давать негативным чувствам выбивать себя из колеи.",
+			"language": "Русский",
+			"reader": "Инна Пинчук",
+			"inStock": false,
+			"returnDate": "2020-04-08",
+			"author": "Сьюзан Дэвид"
+		},
+		{
 			"id": 2,
 			"name": "Гибкое сознание",
 			"yearOfPublishing": "2019",
 			"numberOfPages": 300,
 			"description": "Книга, изменяющая жизнь миллионов людей",
 			"language": "Русский",
-			"reader": "Дарья Попроцкая",
-			"inStock": false,
-			"returnDate": "2020-04-09",
+			"reader": null,
+			"inStock": true,
+			"returnDate": null,
 			"author": "Кэрол Дуэк"
 		},
 		{
@@ -25,15 +37,39 @@
 			"author": "Морган Джонс"
 		},
 		{
+			"id": 4,
+			"name": "Джедайские техники",
+			"yearOfPublishing": "2014",
+			"numberOfPages": 150,
+			"description": "",
+			"language": "Русский",
+			"reader": "Максим Колинс",
+			"inStock": false,
+			"returnDate": "2020-05-01",
+			"author": "Максим Дорофеев"
+		},
+		{
+			"id": 5,
+			"name": "Восходящая спираль",
+			"yearOfPublishing": "2018",
+			"numberOfPages": 250,
+			"description": "",
+			"language": "Русский",
+			"reader": "Максим Колинс",
+			"inStock": false,
+			"returnDate": "2020-05-01",
+			"author": "Алекс Корб"
+		},
+		{
 			"id": 6,
 			"name": "Сейчас",
 			"yearOfPublishing": "2018",
 			"numberOfPages": 250,
 			"description": "",
 			"language": "Русский",
-			"reader": null,
-			"inStock": true,
-			"returnDate": null,
+			"reader": "Алена Ройн",
+			"inStock": false,
+			"returnDate": "2020-04-21",
 			"author": "Эрик Бертран Ларссен"
 		},
 		{
